@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>
+html lists
+</title>
+</head>
+<body>
+<h2>ordered list(numbered)</h2>
+<ol>
+<li>drink</li>
+<li>rice</li>
+<li>eat</li>
+</ol>
+<h2>unordered list(bullet points)</h2>
+<ul>
+<li>apple</li>
+<li>mango</li>
+<li>banana</li>
+</ul>
+<h2>definition list(items)</h2>
+<dl>
+<dt>potato</dt>
+<dd>my favorate food</dd>
+<dt>chicken</dt>
+<dd>i like this food</dd>
+</dl>
+</body>
+</html>
